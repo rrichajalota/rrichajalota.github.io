@@ -9,25 +9,9 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-- ### Towards A World-English Language Model for on-Device Virtual Assistants
-    Authors: <strong>Rricha Jalota</strong>, Lyan Verwimp, Markus Nussbaum-Thom, Amr Mousa, Arturo Argueta and Youssef Oualil<br>
-    [ArXiv]: [link](https://arxiv.org/abs/2403.18783) <br>
+- <strong>Rricha Jalota</strong>, Lyan Verwimp, Markus Nussbaum-Thom, Amr Mousa, Arturo Argueta, Youssef Oualil. 2024. [Towards A World-English Language Model for on-Device Virtual Assistants](https://arxiv.org/abs/2403.18783). *In ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 10811-10815). IEEE.*
 
-    <details>
-    <summary> Bibtex </summary>
-    <div class="tip" markdown="1">
-    ```bibtex
-    @inproceedings{jalota2024towards,
-      title={Towards A World-English Language Model for on-Device Virtual Assistants},
-      author={Jalota, Rricha and Verwimp, Lyan and Nussbaum-Thom, Markus and Mousa, Amr and Argueta, Arturo and Oualil, Youssef},
-      booktitle={ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
-      pages={10811--10815},
-      year={2024},
-      organization={IEEE}
-    }
-    ```
-    </div>
-    </details>
+- David Thulke, Yingbo Gao, Petrus Pelser, Rein Brune, **Rricha Jalota**, ... 2024. [ClimateGPT: Towards AI Synthesizing Interdisciplinary Research on Climate Change](https://arxiv.org/pdf/2401.09646). *arXiv preprint*
 
 <!-- {% include base_path %}
 
