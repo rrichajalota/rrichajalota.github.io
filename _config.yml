@@ -26,7 +26,7 @@ author:
   pronouns         : #"she/her"  
   bio              : "ML Researcher"
   location         : "Berlin, Germany"
-  employer         : "AppTek GmbH"
+  employer         : #"AppTek GmbH"
   uri              : # URL
   email            : "rrichajalota@gmail.com" 
 
