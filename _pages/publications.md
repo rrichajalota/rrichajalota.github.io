@@ -19,7 +19,7 @@ author_profile: true
 
 - **Rricha Jalota**, Peter Bourgonje, Jan Van Sas, Huiyan Huang. 2022. [Mitigating learnerese effects for CEFR classification](https://aclanthology.org/2022.bea-1.3/). *In Proceedings of the 17th Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2022) (pp. 14-21)*.
 
-- Daniel Vollmers, **Rricha Jalota**, Diego Moussallem, Hardik Topiwala, Axel-Cyrille Ngonga Ngomo, Ricardo Usbeck. 2021. [Knowledge graph question answering using graph-pattern isomorphism]{https://arxiv.org/abs/2103.06752}. *In Further with Knowledge Graphs: Proceedings of the 17th International Conference on Semantic Systems*.
+- Daniel Vollmers, **Rricha Jalota**, Diego Moussallem, Hardik Topiwala, Axel-Cyrille Ngonga Ngomo, Ricardo Usbeck. 2021. [Knowledge graph question answering using graph-pattern isomorphism](https://arxiv.org/abs/2103.06752). *In Further with Knowledge Graphs: Proceedings of the 17th International Conference on Semantic Systems*.
 
 - Hamada M. Zahera, **Rricha Jalota**, Mohamed Ahmed Sherif, Axel-Cyrille Ngonga Ngomo. 2021. [I-AID: identifying actionable information from disaster-related tweets](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9522108)*IEEE Access, 9, pp.118861-118870*.
 
