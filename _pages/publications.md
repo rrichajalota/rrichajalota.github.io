@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">For an always up-to-date list, check my <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  <div class="wordwrap">For an always up-to-date list, check my <a href="{{site.author.googlescholar}}">Google Scholar profile</a>.</div>
 {% endif %}
 
 - <strong>Rricha Jalota</strong>, Lyan Verwimp, Markus Nussbaum-Thom, Amr Mousa, Arturo Argueta, Youssef Oualil. 2024. [Towards A World-English Language Model for on-Device Virtual Assistants](https://arxiv.org/abs/2403.18783). *In ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 10811-10815). IEEE.*
