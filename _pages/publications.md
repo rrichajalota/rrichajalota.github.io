@@ -21,7 +21,7 @@ author_profile: true
 
 - Daniel Vollmers, **Rricha Jalota**, Diego Moussallem, Hardik Topiwala, Axel-Cyrille Ngonga Ngomo, Ricardo Usbeck. 2021. [Knowledge graph question answering using graph-pattern isomorphism](https://arxiv.org/abs/2103.06752). *In Further with Knowledge Graphs: Proceedings of the 17th International Conference on Semantic Systems*.
 
-- Hamada M. Zahera, **Rricha Jalota**, Mohamed Ahmed Sherif, Axel-Cyrille Ngonga Ngomo. 2021. [I-AID: identifying actionable information from disaster-related tweets](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9522108)*IEEE Access, 9, pp.118861-118870*.
+- Hamada M. Zahera, **Rricha Jalota**, Mohamed Ahmed Sherif, Axel-Cyrille Ngonga Ngomo. 2021. [I-AID: identifying actionable information from disaster-related tweets](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9522108) *IEEE Access, 9, pp.118861-118870*.
 
 - Ria Hari Gusmita, **Rricha Jalota**, ... 2019. [QUANT-Question Answering Benchmark Curator](https://link.springer.com/content/pdf/10.1007/978-3-030-33220-4.pdf#page=352). *In Semantic Systems. The Power of AI and Knowledge Graphs: 15th International Conference, SEMANTiCS 2019, Proceedings 15 (pp. 343-358)*.
 
