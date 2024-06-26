@@ -23,6 +23,10 @@ author_profile: true
 
 - Hamada M. Zahera, **Rricha Jalota**, Mohamed Ahmed Sherif, Axel-Cyrille Ngonga Ngomo. 2021. [I-AID: identifying actionable information from disaster-related tweets](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9522108) *IEEE Access, 9, pp.118861-118870*.
 
+- **Rricha Jalota**, Daniel Vollmers, Diego Moussallem and Axel-Cyrille Ngonga Ngomo. 2021. [LAUREN-Knowledge Graph Summarization for Question Answering](https://ieeexplore.ieee.org/abstract/document/9364610). *In 2021 IEEE 15th International Conference on Semantic Computing (ICSC) (pp. 221-226). IEEE*.
+
+- **Rricha Jalota**, Priyansh Trivedi, Gaurav Maheshwari, Axel-Cyrille Ngonga Ngomo and Ricardo Usbeck. 2019. [An approach for ex-post-facto analysis of knowledge graph-driven chatbots–the dbpedia chatbot](https://papers.dice-research.org/2019/Conversations2019_DBpedia_Chatlog/Chatlog_Analysis_public.pdf). *In International Workshop on Chatbot Research and Design (pp. 19-33)*.
+
 - Ria Hari Gusmita, **Rricha Jalota**, ... 2019. [QUANT-Question Answering Benchmark Curator](https://link.springer.com/content/pdf/10.1007/978-3-030-33220-4.pdf#page=352). *In Semantic Systems. The Power of AI and Knowledge Graphs: 15th International Conference, SEMANTiCS 2019, Proceedings 15 (pp. 343-358)*.
 
 - **Rricha Jalota**, Nikit Srivastava ... 2019. [Finding Datasets in Publications: The University of Paderborn Approach](https://study.sagepub.com/richcontext). *'Rich Search and Discovery for Research Datasets', chapter 9, SAGE Publications*.
